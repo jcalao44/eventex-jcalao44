@@ -9,6 +9,7 @@ tzdata==2021.5
 gunicorn==20.0.4
 psycopg2-binary==2.8.6
 django-extensions==3.1.5
+django-test-without-migrations==0.6
 
 
 pip~=21.3.1
